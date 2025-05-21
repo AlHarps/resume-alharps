@@ -9,9 +9,10 @@ This resume details my expertise in:
 - **Security Automation & System Hardening** – Implementing security solutions using Linux and Python.  
 - **Professional Experience & Certifications** – Demonstrating my hands-on projects and credentials.  
 
-## 🔗 Access My Resume  
-Download the latest version here:  
-➡️ **[Resume PDF](resume.pdf)**  
+## Access My Resume
+Download the latest version here:
+➡️ [Resume PDF](Albert_Harps_Cybersecurity_Resume%20(1).pdf)
+
 
 ## 💡 Why This Repository?  
 - 📂 Easy access to my resume for recruiters and employers.  
